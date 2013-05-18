@@ -1,0 +1,13 @@
+.erase{
+    background:#2e2e2e;
+    color:#FFF;
+    padding:0 4px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    -o-border-radius:10px;
+    border-radius:10px;
+}
+.erase:hover{
+    background:#F20;
+    cursor:pointer;
+}
